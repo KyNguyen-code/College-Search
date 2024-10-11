@@ -6,4 +6,4 @@
 <h2>II) Demo video</h2>
 <p> I have made a youtube video about using the app. You can watch it if you like : https://www.youtube.com/watch?v=dqwSP6rPIzI&t=1s.</p>
 
-<h1>Please spend time reading the README.md file in the zip file because it contains guidance about setup, libraries, and required devices to run the app on</h1>
+<h1>Please spend time reading the README.md file in the zip file because it contains guidance about setup, libraries, and required devices to run the app</h1>
